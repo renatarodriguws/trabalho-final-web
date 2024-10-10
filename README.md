@@ -11,4 +11,6 @@ Luís Henrique Rodrigues Silva: https://github.com/Passarin1
 Mariele Fernandes Sarmento: https://github.com/marielefss
 Renata Rodrigues Figueiredo: https://github.com/renatarodriguws
 
+Link do Projeto no Figma: https://www.figma.com/design/8FYhW8HSX39ug2xJioh0ML/Untitled?node-id=7-2&t=iKtGMIpq495GzLea-1
+
 
